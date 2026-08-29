@@ -2,9 +2,13 @@ Pong Created in Unity 6.5 (6000.5.9f1)
 
 Running the Program:
   •	Double click the Pong_Project.exe file, the game will start immediately
+  
   •	Use “w, s” keys to move the left paddle, and “up, down” arrow keys to move the right paddle
+  
   •	Press F to pause the game and bring up the control instructions, press F again to continue the game
+  
   •	Once the ball hits one wall the game will freeze
+  
   •	Press esc to exit the game at any time
 
 Compiling the Program:
